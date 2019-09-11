@@ -24,6 +24,7 @@ def checker():
     else:
         counts = counts + 1 #if lists are matched while statements skipped so we have to count for last time
         turns = round (counts / 100) #simply divide the counts by 100, and rounded it for better looking result
+        print(''.join(checked_list)) #to see, ice bear doing good job
         print(f"Ice bear write exactly same in {turns} times.") #ice bear is tired, but he reaches to the north pole :)
 
 
