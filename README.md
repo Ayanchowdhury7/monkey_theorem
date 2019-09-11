@@ -1,5 +1,5 @@
 # monkey_theorem
-implement monkey theorem including lettrs, digits, and punctuation.
+implement monkey theorem including lettrs, digits, and punctuation.\n
 monkey theorem dictates if a monkey has a type writer, he will wrote exactly as Shakesphere's novel.
 But after how many times he can do that.
 let's see.
