@@ -1,6 +1,7 @@
 # monkey_theorem
-implement monkey theorem including lettrs, digits, and punctuation.\n
-monkey theorem dictates if a monkey has a type writer, he will wrote exactly as Shakesphere's novel.
+implement monkey theorem including lettrs, digits, and punctuation.
+
+Monkey theorem dictates if a monkey has a type writer, he will wrote exactly as Shakesphere's novel.
 But after how many times he can do that.
 let's see.
 so what ice bear do:
@@ -13,6 +14,11 @@ i.e - list1 = [a, b]
  list 1 != list 2
  it's necessary to make the same order, i.e list2 = [a, b]
  then we can say list1 == list2
+ 
+ 
+ 
+ 
+ 
  ***\
  if you don't bother to read the whole code, then i want to let you know that , multiply the result with 100.
  ***\
