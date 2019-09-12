@@ -19,7 +19,7 @@ def checker():
     checked_list = [] #blank list to store ice bears predictions
 
     while checked_list != desired_list: #check the user string to ice bear's string
-        counts = counts + 1 # ice bear is dumb, so counts = -1 , line 10
+        counts = counts + 1 # ice bear is dumb, so counts = -1 , line 6
         checked_list = [random.choice(characters) for _ in range(size)] #ice bear try to write
     else:
         counts = counts + 1 #if lists are matched while statements skipped so we have to count for last time
